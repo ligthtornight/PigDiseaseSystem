@@ -1,0 +1,9 @@
+bulid_piggraph.py   #建立疾病知识图谱
+cut_data.py   	#采用结巴分词提取关键词
+GetJson.py    	#将获取的文本转换成能解析的json格式
+spiderdemo.py	#爬取相关网址获取数据集 
+cut 		#结巴分词后提取的关键词
+export 		#导出的数据
+dict     		#处理后的关键词
+raw_data 		#爬取到的数据集
+cn_stopwords.txt     #停用词
